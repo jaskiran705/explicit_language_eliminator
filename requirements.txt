@@ -1,0 +1,11 @@
+youtube_transcript_api==0.3.1
+validators==0.15.0
+# git+https://github.com/jaskiran705/pytube.git
+# git+https://github.com/a-czyrny/pytube
+git+https://github.com/ssuwani/pytube 
+better_profanity==0.6.1
+SpeechRecognition==3.8.1
+streamlit==0.82.0
+moviepy==1.0.3
+pydub
+my-voice-analysis
